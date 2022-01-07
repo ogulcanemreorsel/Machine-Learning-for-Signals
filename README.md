@@ -1,2 +1,1 @@
-# Machine-Learning-for-Signals
-Homework I
+# Machine-Learning-for-Signals HW I
